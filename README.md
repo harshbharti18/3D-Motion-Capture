@@ -17,4 +17,8 @@ Step 2:
 Step 3:
         We only need the text file generated with this python program for our project , open unity hub now choose 3d core , i used editor version : 2022.3.60f1 LTS
         but you also used 6000.0.43f1 LTS it should still work fine , below is the screenshot of the starting page to give more clarity:
+        Unity welcome page : https://github.com/harshbharti18/3D-Motion-Capture/blob/713fcf15b74bc85ab02a1bae65522d88ea86c3dc/Screenshot%20(32).png
+        In case you face license issue in unity apply for the student offer on unity website and you can have unity hub for free.
+Step 4:
+        Then create a new project and open the project , 
         

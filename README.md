@@ -7,4 +7,4 @@ About  :
 Step 1:
         Choose any video or choose given media (video.mp4) or import the video of performer , whose actions are wished to be copied.
         Copy the main.py , import the necessary libraries and run in it  any platform eg. visual studio ( I used pycharm) to mark the landmarks on the performer.
-        
+        Screenshot for the same : https://github.com/harshbharti18/3D-Motion-Capture/blob/9ae167b876789cebc80e061bb01b5486dd2ce3e0/Screenshot%20(27).png 
